@@ -44,7 +44,7 @@ _\\ \\/ _ \`/ / -_)  ' \\
         <Seperator>----</Seperator>
         <div>
           This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/mohamedsalem00/terminal-portfolio" target="_blank">
+          <Link href="https://github.com/0xkhyr/terminal_portfolio" target="_blank">
             GitHub repo
           </Link>
           .
