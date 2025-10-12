@@ -17,14 +17,14 @@
       "name": "Gestion-de-la-Scolarite",
       "description": "Platform for managing school registrations and grades",
       "technologies": ["Laravel", "MySQL", "PHP"],
-      "githubLink": "https://github.com/mohamedsalem00/Gestion-Scolarite"
+      "githubLink": "https://github.com/0xkhyr/Gestion-Scolarite"
     },
     {
       "id": 2,
       "name": "ProfsChezVous",
       "description": "Mobile application connecting teachers and students for private tutoring sessions",
       "technologies": ["Flutter", "Django", "REST API"],
-      "githubLink": "https://github.com/mohamedsalem00/profschezvous"
+      "githubLink": "https://github.com/0xkhyr/profschezvous"
     }
   ],
   "certifications": [
@@ -36,7 +36,7 @@
       {
         "id": 1,
         "title": "GitHub",
-        "url": "https://github.com/mohamedsalem00",
+        "url": "https://github.com/0xkhyr",
         "tab": 0
       },
       {
