@@ -34,7 +34,7 @@ My perfolio website in terminal version developed with React, TypeScript and Sty
 Clone the project
 
 ```bash
-git clone https://github.com/khyrr/terminal_portfolio.git
+git clone https://github.com/khyarum/terminal_portfolio.git
 ```
 
 Go to the project directory
